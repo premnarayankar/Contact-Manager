@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcontact_manager=self.webpackChunkcontact_manager||[]).push([[649],{649:function(a,n,e){e.r(n);e(791);var c=e(184);n.default=function(){return(0,c.jsx)("div",{children:(0,c.jsx)("nav",{className:"navbar bg-success",children:(0,c.jsx)("div",{className:"container",children:(0,c.jsx)("span",{className:"navbar-brand text-light fw-bold",style:{letterSpacing:"1px"},children:"Contact Manager"})})})})}}}]);
+//# sourceMappingURL=649.01d04284.chunk.js.map
